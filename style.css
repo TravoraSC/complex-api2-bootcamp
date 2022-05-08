@@ -34,9 +34,8 @@ h1 {
 
 .typeName {
   width: fit-content;
-  margin-right: 2rem;
+  margin-right: 1.5rem;
   font-size: 1.5rem;
-
 }
 
 input {
